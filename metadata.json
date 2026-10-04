@@ -1,0 +1,7 @@
+{
+  "name": "StyleMatch AI",
+  "description": "Discover the colors and outfits made for your style. Upload your photo for personalized color palettes, curated combinations, and AI styling.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
